@@ -1,0 +1,8 @@
+
+pandas
+numpy
+pykernel
+torchvision
+matplotlib
+opencv-python
+torch

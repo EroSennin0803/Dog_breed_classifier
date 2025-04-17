@@ -4,7 +4,6 @@ import torchvision.models as models
 import torchvision.transforms as transforms
 from PIL import Image
 import pickle
-import cv2
 import numpy as np
 
 # Load model
